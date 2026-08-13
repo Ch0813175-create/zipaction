@@ -1,0 +1,6 @@
+{
+  "name": "GitHub App Compiler",
+  "description": "Upload zip files of Android app code to GitHub, build automatically with GitHub Actions, and download compiled APKs directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
